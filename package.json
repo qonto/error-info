@@ -1,0 +1,18 @@
+{
+  "name": "error-info",
+  "version": "0.0.1",
+  "description": "a class helper to filter out network errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ember-data": "^4.11.3",
+    "qunit": "^2.19.4"
+  },
+  "peerDependencies": {
+    "ember-data": "^4.11.3"
+  }
+}
